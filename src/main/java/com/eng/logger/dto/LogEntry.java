@@ -1,4 +1,4 @@
-package com.eng.logger.objects;
+package com.eng.logger.dto;
 
 import java.util.Map;
 

@@ -1,6 +1,6 @@
 package com.eng.logger;
 
-import com.eng.logger.objects.LogEntry;
+import com.eng.logger.dto.LogEntry;
 import com.eng.logger.utils.Constants;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.logging.LogLevel;
